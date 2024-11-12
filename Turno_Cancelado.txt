@@ -1,0 +1,135 @@
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 1
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: sofi
+El DNI del Cliente: 4
+El id Turno es: 1
+El Total de los tratamientos: 150.000000
+Turno Cancelado
+Nombre del cliente: sofia
+El DNI del Cliente: 3
+El id Turno es: 1
+El Total de los tratamientos: 350.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 1
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 1
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 1
+El Total de los tratamientos: 300.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 1
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 350.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 350.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 350.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 332.500000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 237.500000
+Turno Cancelado
+Nombre del cliente: 4
+El DNI del Cliente: 2
+El id Turno es: 0
+El Total de los tratamientos: 250.000000
+Turno Cancelado
+Nombre del cliente: gabriel
+El DNI del Cliente: 2
+El id Turno es: 1
+El Total de los tratamientos: 250.000000
